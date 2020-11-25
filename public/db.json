@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "title": "Go to the gym",
+      "description": "Lorem ipsum 0 dolor sit amet",
+      "image": "https://picsum.photos/id/1011/100"
+    },
+    {
+      "id": 1,
+      "title": "Walk the dog",
+      "description": "Lorem ipsum 1 dolor sit amet",
+      "image": "https://picsum.photos/id/1005/100"
+    },
+    {
+      "id": 2,
+      "title": "Get some pizza",
+      "description": "Lorem ipsum 2 dolor sit amet",
+      "image": "https://picsum.photos/id/1082/100"
+    },
+    {
+      "id": 3,
+      "title": "Buy some milk",
+      "description": "Lorem ipsum 3 dolor sit amet",
+      "image": "https://picsum.photos/id/152/100"
+    }
+  ]
+}
